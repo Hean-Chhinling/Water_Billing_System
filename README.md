@@ -2,8 +2,8 @@
 
 The Water Billing System is a Java project developed on NetBeans 18 that assists landlords in efficiently calculating and managing their tenants' monthly water bills. This system streamlines the process, enabling house owners to generate bills, save them as text files, and even print them for tenant distribution.
 
-<img width="780" alt="water_billing" src="https://github.com/Hean-Chhinling/Water_Billing_System/assets/92643868/f91d01bc-eb94-40e7-875d-970abf0f31c2">
 
+<img width="780" alt="water_billing" src="https://github.com/Hean-Chhinling/Water_Billing_System/assets/92643868/438dc26a-6b2b-4d3e-89d0-89d176c2d243">
 
 
 ## Features
